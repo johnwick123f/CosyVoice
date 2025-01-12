@@ -14,7 +14,7 @@
 # limitations under the License.
 
 import json
-import tensorrt as trt
+#import tensorrt as trt
 import torchaudio
 import logging
 logging.getLogger('matplotlib').setLevel(logging.WARNING)
